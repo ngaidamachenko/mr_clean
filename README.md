@@ -22,7 +22,7 @@ requests, re, pandas, seaborn, matplotlib, and sklearn
 To complete the analysis, simply execute all the cells in the jupyter notebook. 
 
 ### The Core Team
-
+Project completed by Nikita Gaidamachenko and Andrew Bonham
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
