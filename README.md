@@ -2,19 +2,24 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task here was to scrape information from a Wikipedia article about 
+the ozone layer and analyze the frequency or relevance of the terms making
+up the article.
 
 ## Description
-TODO - How have you solved the problem?
+The problem was solved by using the requests package to extract information
+from the Wikipedia API, followed by using built-in Python data structures 
+to store frequency information about the terms used in the article, and 
+finally by using the pandas and seaborn packages to plot the frequency of 
+terms and bigrams in the article.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+In addition to a Jupyter and Python 3 installation, the following python 
+packages are required:
+requests, re, pandas, seaborn, matplotlib, and sklearn
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+To complete the analysis, simply execute all the cells in the jupyter notebook. 
 
 ### The Core Team
 
